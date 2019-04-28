@@ -1,0 +1,4 @@
+Translate to english
+Add option for input parameter file
+Simplify movie making (ffmpeg?)
+Explanation & math pdf document 
